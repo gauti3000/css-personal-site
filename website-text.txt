@@ -1,0 +1,19 @@
+
+
+LINKS
+
+resume (capstone p1)
+https://gauti3000.github.io/html-resume/index.html
+
+Design project (hotel)
+https://ahotelsiteforme.my.canva.site/
+
+Bootstrap (Tindog)
+https://gauti3000.github.io/bootstrap-tindog/
+
+
+Colors:
+#222831 - black
+#393E46 - dark grey
+#FFD369 - yellow
+#EEEEEE - white
